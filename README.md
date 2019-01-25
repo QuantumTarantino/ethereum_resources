@@ -3,7 +3,7 @@
 ## Getting Started
 
 In this repository you will find all kinds of resources with which you can learn and improve your development of DAPPs for Ethereum network. I will be updating periodically as soon as I find a good resource to add here.
-Fell free to send [pull requests](https://github.com/QuantumTarantino/Ethetereum_Dev_Tips). Any suggestions will be evaluated to improve the quality of this repository.
+Fell free to send [pull requests](https://github.com/QuantumTarantino/ethereum_dev_resources). Any suggestions will be evaluated to improve the quality of this repository.
 If you want you can contact me by [email](correo@alvaroarias.com)
 
 ## Contents
