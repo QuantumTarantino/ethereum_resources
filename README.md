@@ -8,7 +8,7 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 ## Contents
 - [Tutorials](#tutorials)
-- [Dev Tools](#dev tools)
+- [Dev Tools](#dev-tools)
 
 ## Tutorials
 
@@ -20,13 +20,13 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 ## Dev Tools
 
-* [Remix] (https://remix.ethereum.org) - Browser-Only IDE for Smart Contracts development. Remix allows you write fast smart contracts and make tests allowing you to deploy on any network smart contracts straight from the interface.
+* [Remix](https://remix.ethereum.org) - Browser-Only IDE for Smart Contracts development. Remix allows you write fast smart contracts and make tests allowing you to deploy on any network smart contracts straight from the interface.
 
-* [Ganacle CLI] (https://github.com/trufflesuite/ganache-cli) - Build a personal Ethereum blockchain to run tests. Powered by Consensys.
+* [Ganacle CLI](https://github.com/trufflesuite/ganache-cli) - Build a personal Ethereum blockchain to run tests. Powered by Consensys.
 
-* [Ganache GUI] (https://truffleframework.com/ganache) - Same as Ganache CLI. GUI version. Powered by Consensys.
+* [Ganache GUI](https://truffleframework.com/ganache) - Same as Ganache CLI. GUI version. Powered by Consensys.
 
-* [Truffle] (https://github.com/trufflesuite/truffle) - You can do lot of things with this npm package tool like compile your contracts, migrate it to any network and test it. Powered by Consensys
+* [Truffle](https://github.com/trufflesuite/truffle) - You can do lot of things with this npm package tool like compile your contracts, migrate it to any network and test it. Powered by Consensys
 
 
 
