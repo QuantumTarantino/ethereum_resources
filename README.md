@@ -1,4 +1,4 @@
-# Ethereum_dev_tips
+# Ethereum_dev_resources
 
 ## Getting Started
 
