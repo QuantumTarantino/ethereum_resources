@@ -2,19 +2,20 @@
 
 ## Getting Started
 
-In this repository you will find all kinds of resources with which you can learn and improve your development of DAPPs for Ethereum network. I will be updating periodically as soon as I find a good resource to add here.
-Fell free to send [pull requests](https://github.com/QuantumTarantino/ethereum_dev_resources). Any suggestions will be evaluated to improve the quality of this repository.
+In this repository you will find all kinds of resources with which you can learn and improve your skills on DAPPs development for Ethereum network. I will be updating periodically as soon as I find a good resource to add here.
+Feel free to send [pull requests](https://github.com/QuantumTarantino/ethereum_dev_resources). Any suggestions will be evaluated to improve the quality of this repository.
 If you want you can contact me by [email](correo@alvaroarias.com)
 
 ## Contents
 - [Tutorials](#tutorials)
 - [Dev Tools](#dev-tools)
+- [Explorers](#explorers)
 
 ## Tutorials
 
 * [CryptoZombies](https://cryptozombies.io/) - A complete website tutorial (powered by Loom Network) who can teach you everything you need to develope Ethereum Dapps (ie: contract development as well as the interaction with them through the front end).
 
-* [Petshop](https://truffleframework.com/tutorials/pet-shop) - One of the best tutorials to start Dapp developing, it covers Smart contract development and Front end integration using the truffle framework by a construction of a pet adoption store on Ethereum. Also teachs you to get an easy interaction with DAPPs by using Metamask.
+* [Petshop](https://truffleframework.com/tutorials/pet-shop) - One of the best tutorials to start Dapp developing, it covers Smart contract development and Front end integration using the truffle framework by a construction of a pet adoption store. Also teachs you to get an easy interaction with DAPPs by using Metamask.
 
 * [Greeter](https://www.ethereum.org/greeter) - Write your first contract with this tutorial powered by the Ethereum Foundation.
 
@@ -28,6 +29,13 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 * [Truffle](https://github.com/trufflesuite/truffle) - You can do lot of things with this npm package tool like compile your contracts, migrate it to any network and test it. Powered by Consensys
 
+## Explorers
 
+* [Etherscan](https://etherscan.io/) - This block explorer is widely used by the community. It allows you to see any type of movement in the main network as well as in the most used testnets of Ethereum. Powered by ethereum.
 
+* [Etherchain](https://www.etherchain.org/) - Other block explorer.
+
+* [Ethviewer](http://ethviewer.live/) - You can see everything that is happening on Ethereum mainnet at real time. It's useful to learn how Ethereum blockchain works.
+
+* [Rinkeby BE](https://www.rinkeby.io/#stats) - You can visualizate Rinkeby testnet on real time. So cool! 
 
