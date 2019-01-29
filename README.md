@@ -10,10 +10,11 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 - [Tutorials](#tutorials)
 - [Dev Tools](#dev-tools)
 - [Explorers](#explorers)
+- [Plugins and libraries](#plugins-and-libraries)
 
 ## Tutorials
 
-* [CryptoZombies](https://cryptozombies.io/) - A complete website tutorial (powered by Loom Network) who can teach you everything you need to develope Ethereum Dapps (ie: contract development as well as the interaction with them through the front end).
+* [CryptoZombies](https://cryptozombies.io/) - A complete website tutorial (powered by Loom Network) who can teach you everything you need to develope Ethereum Dapps (e.g., contract development as well as the interaction with them through the front end).
 
 * [Petshop](https://truffleframework.com/tutorials/pet-shop) - One of the best tutorials to start Dapp developing, it covers Smart contract development and Front end integration using the truffle framework by a construction of a pet adoption store. Also teachs you to get an easy interaction with DAPPs by using Metamask.
 
@@ -35,7 +36,18 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 * [Etherchain](https://www.etherchain.org/) - Other block explorer.
 
-* [Ethviewer](http://ethviewer.live/) - You can see everything that is happening on Ethereum mainnet at real time. It's useful to learn how Ethereum blockchain works.
+* [Ethviewer](http://ethviewer.live/) - You can see everything happening on Ethereum mainnet at real time. It's useful to learn how Ethereum blockchain works.
 
 * [Rinkeby BE](https://www.rinkeby.io/#stats) - You can visualizate Rinkeby testnet on real time. So cool! 
+
+## Plugins and libraries
+
+* [Metamask](https://metamask.io/) - This plugin makes a bridge between your Ethereum account and your browser to interact with Dapps, contracts or simply make transaction with other accounts.
+
+* [web3.js](https://web3js.readthedocs.io/en/1.0/) - This library lets you interact from your Javascript code, with the Ethereum network (e.g., make transactions with a contract)
+
+* [web3.py](https://web3py.readthedocs.io/en/stable/) - Same as web3.js but for Python.
+
+
+
 
