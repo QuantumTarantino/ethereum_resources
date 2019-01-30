@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-In this repository you will find all kinds of resources with which you can learn and improve your skills on DAPPs development for Ethereum network. I will be updating periodically as soon as I find a good resource to add here.
+In this repository you will find the main resources with which you can learn and improve your skills on DAPPs development for Ethereum network. I do not try to make an extensive repository, my idea is condense resources into the best ones to improve and make you a good developer. I will be updating periodically as soon as I find a good resource to add here.
 Feel free to send [pull requests](https://github.com/QuantumTarantino/ethereum_dev_resources). Any suggestions will be evaluated to improve the quality of this repository.
 If you want you can contact me by [email](correo@alvaroarias.com)
 
@@ -11,6 +11,7 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 - [IDEs and tools](#ides-and-tools)
 - [Plugins and libraries](#plugins-and-libraries)
 - [Explorers](#explorers)
+- [Security resources](#security-resources)
 
 ## Tutorials
 
@@ -32,9 +33,9 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 * [Metamask](https://metamask.io/) - This plugin makes a bridge between your Ethereum account and your browser to interact with Dapps, contracts or simply make transaction with other accounts.
 
-* [Truffle](https://github.com/trufflesuite/truffle) - You can do lot of things with this npm package tool like compile your contracts, migrate it to any network and test it. Powered by Consensys
+* [Truffle](https://github.com/trufflesuite/truffle) - You can do lot of things with this npm package tool like compile your contracts, migrate it to any network and test it. Powered by Consensys.
 
-* [web3.js](https://web3js.readthedocs.io/en/1.0/) - This library lets you interact from your Javascript code, with the Ethereum network (e.g., make transactions with a contract)
+* [web3.js](https://web3js.readthedocs.io/en/1.0/) - This library lets you interact from your Javascript code, with the Ethereum network (e.g., make transactions with a contract).
 
 * [web3.py](https://web3py.readthedocs.io/en/stable/) - Same as web3.js but for Python.
 
@@ -48,5 +49,11 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 * [Rinkeby BE](https://www.rinkeby.io/#stats) - You can visualizate Rinkeby testnet on real time. So cool!
 
+## Security resources
 
+* [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - OpenZeppelin make standards for most common contracts like: tokens, ownership or math operations.
+
+* [Ethernaut](https://ethernaut.zeppelin.solutions/) - Ethereum smart contracts hacking game powered by OpenZeppelin. Useful to learn security for contracts.
+
+* [CaptureTheEther](https://capturetheether.com/) - Another CTF game powered by SMARX.
 
