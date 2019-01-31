@@ -12,6 +12,7 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 - [Plugins and libraries](#plugins-and-libraries)
 - [Explorers](#explorers)
 - [Security resources](#security-resources)
+- [Other githubs](#other-githubs)
 
 ## Tutorials
 
@@ -57,3 +58,6 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 * [CaptureTheEther](https://capturetheether.com/) - Another CTF game powered by SMARX.
 
+## Other githubs
+
+* [Awesome Ethereum Security](https://github.com/trailofbits/awesome-ethereum-security) - Security resources if you are more interested. Powered by github user trailofbits
