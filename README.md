@@ -60,4 +60,6 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 ## Other githubs
 
-* [Awesome Ethereum Security](https://github.com/trailofbits/awesome-ethereum-security) - Security resources if you are more interested. Powered by github user trailofbits
+* [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum) - More resources. Powered by github user btomashvili.
+
+* [Awesome Ethereum Security](https://github.com/trailofbits/awesome-ethereum-security) - Security resources if you are more interested. Powered by github user trailofbits.
