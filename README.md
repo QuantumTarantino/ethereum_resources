@@ -22,6 +22,8 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 * [Greeter](https://www.ethereum.org/greeter) - Write your first contract with this tutorial powered by the Ethereum Foundation.
 
+* [DappUniversity](http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) - Build a full Ethereum Dapp. Powered by Gregory from DappUniversity.
+
 ## IDEs and tools
 
 * [Remix](https://remix.ethereum.org) - Browser-Only IDE for Smart Contracts development. Remix allows you write fast smart contracts and make tests allowing you to deploy on any network smart contracts straight from the interface.
