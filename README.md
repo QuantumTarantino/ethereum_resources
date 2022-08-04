@@ -18,7 +18,7 @@ If you want you can contact me by [email](correo@alvaroarias.com)
 
 * [CryptoZombies](https://cryptozombies.io/) - A complete website tutorial (powered by Loom Network) who can teach you everything you need to develope Ethereum Dapps (e.g., contract development as well as the interaction with them through the front end).
 
-* [Petshop](https://truffleframework.com/tutorials/pet-shop) - One of the best tutorials to start Dapp developing, it covers Smart contract development and Front end integration using the truffle framework by a construction of a pet adoption store. Also teachs you to get an easy interaction with DAPPs by using Metamask.
+* [Petshop](https://trufflesuite.com/tutorial/) - One of the best tutorials to start Dapp developing, it covers Smart contract development and Front end integration using the truffle framework by a construction of a pet adoption store. Also teachs you to get an easy interaction with DAPPs by using Metamask.
 
 * [Greeter](https://www.ethereum.org/greeter) - Write your first contract with this tutorial powered by the Ethereum Foundation.
 
